@@ -35,7 +35,7 @@ If you found Re2Pix useful in your research, please consider starring ⭐ us on 
 ```bibtex
 @article{karypidis2026re2pix,
   title={Representations Before Pixels: Semantics-Guided Hierarchical Video Prediction},
-  author={Karypidis, Efstathios and Kakogeorgiou, Ioannis and Gidaris, Spyros and Komodakis, Nikos},
+  author={Karypidis, Efstathios and Gidaris, Spyros and Komodakis, Nikos},
   journal={arXiv preprint arXiv:2604.11707},
   year={2026}
 }
