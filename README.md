@@ -6,7 +6,7 @@
 <sup>1</sup>Archimedes/Athena RC <sup>2</sup>valeo.ai  
 <sup>3</sup>National Technical University of Athens  <sup>4</sup>University of Crete   <sup>5</sup>IACM-Forth
 
-[![Re2Pix](https://img.shields.io/badge/arXiv-2604.11707-b31b1b?logo=arxiv&logoColor=white)]()
+[![Re2Pix](https://img.shields.io/badge/arXiv-2604.11707-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.11707)
 [![License](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 <!-- [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Pretrained_Model-blue)]() -->
 <!-- [![Project Page](https://img.shields.io/badge/-Project_Page-green.svg?colorA=333&logo=html5)]() -->
