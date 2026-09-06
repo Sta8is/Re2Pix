@@ -23,10 +23,32 @@ Code and pretrained models will be released soon. Stay tuned!
 
 # Contents
 1. [News](#news)
-2. [Citation](#citation)
+2. [Setup](Setup)
+3. [Usage](Usage)
+4. [To-Do](#to-do)
+5. [Citation](#citation)
+
+
+
+# Setup
+This framework is built on top of [Cosmos-Predict2](https://github.com/nvidia-cosmos/cosmos-predict2) and [DINO-Foresight](https://github.com/Sta8is/DINO-Foresight).
+Cosmos-Predict is a collection of general-purpose world foundation models. The repository contains many features that are not used in Re2Pix. We did an initial cleanup of the repository, but it still contains a lot of unused code. To be refined further in the future.
+
+For the installation instructions, please refer to the [Installation](docs/Installation.md) page.
+
+# Usage
+Re2Pix is a hierarchical video prediction framework that takes as input 13 frames of a video and predicts the next 12 frames in a hierarchical manner. Resolution used is 448x
+
+# To-Do
+- [x]  Provide inference script
+- [ ]  Add training scripts
+- [ ]  Improve the documentation and code cleanup
+- [ ]  Add more pretrained models
+
 
 # News
-- **2026-04-13**: Re2pix is now available on arXiv! Check out our [paper](https://arxiv.org/abs/2604.11707) for more details.
+- **2026-06-17**: Re2Pix is accepted at ECCV 2026! 🎉
+- **2026-04-13**:  [Arxiv Preprint](https://arxiv.org/abs/2604.11707) and GitHub repository are released! 
 
 
 # Citation
