@@ -37,7 +37,8 @@ Cosmos-Predict is a collection of general-purpose world foundation models. The r
 For the installation instructions, please refer to the [Installation](docs/Installation.md) page.
 
 # Usage
-Re2Pix is a hierarchical video prediction framework that takes as input 13 frames of a video and predicts the next 12 frames in a hierarchical manner. Resolution used is 448x
+Re2Pix is a hierarchical video prediction framework that takes as input 13 frames of a video and predicts the next 12 frames in a hierarchical manner. Resolution used is 448x.
+For instructions on how to use Re2Pix, please refer to the [Usage](docs/Usage.md) page.
 
 # To-Do
 - [x]  Provide inference script
